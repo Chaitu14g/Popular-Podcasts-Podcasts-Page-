@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 40vh;
+    padding: 30px;
+}
+
+.heading {
+    color: #ffffff;
+    padding: 10px;
+    font-family: "Roboto";
+    font-size: 45px;
+}
+
+.card {
+    height: 170px;
+    width: 150px;
+    text-align: center;
+    margin: 20px;
+}
+
+.image {
+    height: 100px;
+    width: 150px;
+}
+
+.heading-1 {
+    color: #151765;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 10px;
+}
+
+.paragraph {
+    color: #5a7184;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.puriContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height:25vh
+}
+
+.containerz {
+    background-color: #151765;
+    padding: 20px;
+    width:100%
+}
+
+.paragraph-1 {
+    color: #ffffff;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.heading-2 {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.image-1 {
+    height: 128px;
+    width: 150px;
+    margin-right:30px
+}
+
+.heading-3 {
+    color: #151765;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.paragraph-2 {
+    color: #5a7184;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #151765;
+    border-radius: 15px;
+    width: 100px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
